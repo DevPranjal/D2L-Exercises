@@ -20,8 +20,18 @@ If you think a solution is incorrect, please open an issue.
     - [ ] 3.4: Softmax Regression
     - [x] 3.5: The Image Classification Dataset
     - [ ] 3.6: Implementation of Softmax Regression from Scratch
-    - [ ] 3.7: Concise Implementation of Softmax Regression
+    - [x] 3.7: Concise Implementation of Softmax Regression
 - 4: Multilayer Perceptrons
+    - [ ] 4.1: Multilayer Perceptrons
+    - [ ] 4.2: Implementation of Multilayer Perceptrons from Scratch
+    - [ ] 4.3: Concise Implementation of Multilayer Perceptrons
+    - [ ] 4.4: Model Selection, Underfitting, and Overfitting
+    - [ ] 4.5: Weight Decay
+    - [ ] 4.6: Dropout
+    - [ ] 4.7: Forward Propagation, Backward Propagation, and Computational Graphs
+    - [ ] 4.8: Numerical Stability and Initialization
+    - [ ] 4.9: Environment and Distribution Shift
+    - [ ] 4.10: Predicting House Prices on Kaggle
 - 5: Deep Learning Computation
 - 6: Convolutional Neural Networks
 - 7: Modern Convolutional Neural Networks
