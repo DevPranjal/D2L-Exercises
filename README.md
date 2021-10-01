@@ -1,7 +1,7 @@
 # D2L-Exercises
 Solutions to the exercises in Dive into Deep Learning, in PyTorch
 
-**_Work largely in progress._**
+**_Work largely in progress_**
 
 If you think a solution is incorrect, please open an issue.
 
