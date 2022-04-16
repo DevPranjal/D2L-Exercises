@@ -5,6 +5,7 @@ Solutions to the exercises in Dive into Deep Learning, in PyTorch
 
 If you think a solution is incorrect, please open an issue.
 
+
 ## Status
 - 2: Preliminaries
     - [x] 2.1: Data Manipulation
